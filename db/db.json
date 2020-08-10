@@ -1,17 +1,1 @@
-[
-    {
-        "id": 1,
-        "title": "Test Title",
-        "text": "Test text"
-    },
-    {
-        "id": 2,
-        "title": "Second Title",
-        "text": "Second text"
-    },
-    {
-        "id": 4,
-        "title": "Four Title",
-        "text": "Four  text"
-    }
-]
+[{"id":1,"title":"Test Title","text":"Test text"},{"title":"new note","text":"new new note","id":"bab041a3-181f-422f-920a-07e51ba6f636"},{"title":"new note 1","text":"new new note 1","id":"916d1124-8b0b-4842-a533-2b8639a80eac"},{"title":"new note 4","text":"there is no 3 haha","id":"333d5875-4fa4-4dc6-9599-7e24ef5ec014"}]
